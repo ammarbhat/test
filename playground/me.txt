@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ammar Qayoom
+Skills: HTML, CSS, JS, React.JS
+Email: bhatmmr@gmail.com
+{{/user}}
